@@ -1,5 +1,6 @@
 ﻿Imports System.Threading
 Imports System.Globalization
+
 Partial Class _Default
     Inherits System.Web.UI.Page
 
@@ -15,8 +16,26 @@ Partial Class _Default
         End If
     End Sub
 
+    Protected Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Dim gender As String
+        Dim selectDate As Date = Calendar1.SelectedDate
+        Dim salaryEnter As Double = TextBox2.Text
 
-    Protected Sub Page_Load(sender As Object, e As EventArgs) Handles Me.Load
+        If RadioButtonF.Checked = True Then
+            gender = "Ms."
+        Else
+            gender = "Mr."
+        End If
+
+
+
+        Session("nameVariable") = TextBox1.Text
+        Session("dateVariable") = selectDate
+        Session("salaryVariable") = salaryEnter
+        Session("genderVariable") = gender
+        Response.Redirect("Result.aspx")
+
 
     End Sub
+
 End Class

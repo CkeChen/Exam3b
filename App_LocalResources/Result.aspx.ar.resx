@@ -117,31 +117,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Button1.Text" xml:space="preserve">
-    <value>عرض</value>
-  </data>
   <data name="Label1.Text" xml:space="preserve">
     <value>الرجاء اختيار لغتك:</value>
   </data>
-  <data name="Label2.Text" xml:space="preserve">
-    <value>عندما تخرجي آمل أن أتمكن من كسب</value>
+  <data name="Label11.Text" xml:space="preserve">
+    <value>آمل أن يكون لديك يوم عظيم عندما</value>
   </data>
-  <data name="Label3.Text" xml:space="preserve">
-    <value>اسمي هو:</value>
+  <data name="Label12.Text" xml:space="preserve">
+    <value>تخرجك على</value>
   </data>
-  <data name="Label4.Text" xml:space="preserve">
-    <value>أنا</value>
+  <data name="Label14.Text" xml:space="preserve">
+    <value>أتمنى لكم التوفيق في حياتك المهنية بعد</value>
   </data>
-  <data name="Label5.Text" xml:space="preserve">
-    <value>أنثى</value>
+  <data name="Label15.Text" xml:space="preserve">
+    <value>التخرج. آمل أن تكسب</value>
   </data>
-  <data name="Label6.Text" xml:space="preserve">
-    <value>ذكر</value>
+  <data name="Label17.Text" xml:space="preserve">
+    <value>كما راتبا في أول وظيفة الخاص بك!</value>
+  </data>
+  <data name="Label18.Text" xml:space="preserve">
+    <value>يرجى زيارة لي على</value>
+  </data>
+  <data name="Label20.Text" xml:space="preserve">
+    <value>{السيد. أو السيدة}</value>
   </data>
   <data name="Label7.Text" xml:space="preserve">
     <value>مرحبا بكم في MSCI: 3300</value>
   </data>
   <data name="Label8.Text" xml:space="preserve">
     <value>تصميم وتطوير البرمجيات</value>
+  </data>
+  <data name="Label9.Text" xml:space="preserve">
+    <value>مرحبا</value>
   </data>
 </root>

@@ -117,31 +117,37 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Button1.Text" xml:space="preserve">
-    <value>Submit</value>
-  </data>
   <data name="Label1.Text" xml:space="preserve">
     <value>Please choose your language:</value>
   </data>
-  <data name="Label2.Text" xml:space="preserve">
-    <value>When I graduate I hope I can earn</value>
+  <data name="Label11.Text" xml:space="preserve">
+    <value>I hope you have a great day when</value>
   </data>
-  <data name="Label3.Text" xml:space="preserve">
-    <value>My name is:</value>
+  <data name="Label12.Text" xml:space="preserve">
+    <value>you graduate on</value>
   </data>
-  <data name="Label4.Text" xml:space="preserve">
-    <value>I am:</value>
+  <data name="Label14.Text" xml:space="preserve">
+    <value>I wish you well in your career after</value>
   </data>
-  <data name="Label5.Text" xml:space="preserve">
-    <value>Female</value>
+  <data name="Label15.Text" xml:space="preserve">
+    <value>graduation. I hope you earn</value>
   </data>
-  <data name="Label6.Text" xml:space="preserve">
-    <value>Male</value>
+  <data name="Label17.Text" xml:space="preserve">
+    <value>as a salary in your first job!</value>
+  </data>
+  <data name="Label18.Text" xml:space="preserve">
+    <value>Please visit me on</value>
+  </data>
+  <data name="Label20.Text" xml:space="preserve">
+    <value>{Mr. or Ms.}</value>
   </data>
   <data name="Label7.Text" xml:space="preserve">
     <value>Welcome to MSCI:3300</value>
   </data>
   <data name="Label8.Text" xml:space="preserve">
     <value>Software Design and Development</value>
+  </data>
+  <data name="Label9.Text" xml:space="preserve">
+    <value>Hello</value>
   </data>
 </root>

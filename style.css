@@ -1,0 +1,29 @@
+﻿		body 
+		{
+			color: white;
+			background-color: tan;
+			font-size: 28pt;
+			font-family: Veranda; Geneva, Arial, Helvetica, sans-serif;  
+			text-align: center;
+		}
+		
+
+
+		div { background-color:tan; text-align:center; margin:0 auto; }
+		
+		p { color: White; font-size: 18pt; }
+		
+		h1 { font-style:italic; font-weight:bold; }
+				
+		a { text-decoration:none; }
+		a:link, a:visited { color:black; }
+		a:hover, a:active { text-decoration:underline; color:coral; }
+		
+		p.subheader { font-weight:bold; color:orange; }
+		
+	
+		
+		.footer { font-size:9pt; font-style:italic; text-align:center; line-height:12pt; padding-top:30pt; }
+		
+		#Welcome_Header { text-align:center; }
+                .gridview{color:white;background-color:coral;margin-left:auto;margin-right:auto;}

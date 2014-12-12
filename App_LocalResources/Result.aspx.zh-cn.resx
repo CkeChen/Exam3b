@@ -120,6 +120,27 @@
   <data name="Label1.Text" xml:space="preserve">
     <value>请选择您的语言</value>
   </data>
+  <data name="Label11.Text" xml:space="preserve">
+    <value>希望你有好的一天当</value>
+  </data>
+  <data name="Label12.Text" xml:space="preserve">
+    <value>你毕业的时候</value>
+  </data>
+  <data name="Label14.Text" xml:space="preserve">
+    <value>希望你你一切都好</value>
+  </data>
+  <data name="Label15.Text" xml:space="preserve">
+    <value>毕业之后，希望你能赚</value>
+  </data>
+  <data name="Label17.Text" xml:space="preserve">
+    <value>钱在你的第一份工作</value>
+  </data>
+  <data name="Label18.Text" xml:space="preserve">
+    <value>请访问我的</value>
+  </data>
+  <data name="Label20.Text" xml:space="preserve">
+    <value>先生或女士</value>
+  </data>
   <data name="Label7.Text" xml:space="preserve">
     <value>欢迎来到MSCI：3300</value>
   </data>
@@ -127,12 +148,6 @@
     <value>软件设计与开发</value>
   </data>
   <data name="Label9.Text" xml:space="preserve">
-    <value>您好，{先生或女士} NAME
-我希望你有一个伟大的日子，当
-你毕业的日期！
-我祝愿你在你的职业生涯后，
-毕业。我希望你赚
-钱在你的第一份工作的薪水！
-请访问我Github上。</value>
+    <value>您好</value>
   </data>
 </root>
